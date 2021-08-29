@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Jetpack Compose, MVVM, Room, Repository and Firebase
 
  <div>
-  <a href="https://github.com/massenandev">
+  <a href="https://github.com/tavieto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavieto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
