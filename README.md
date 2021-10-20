@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working Diversight App
 - 🌱 I'm currently learning Jetpack Compose, MVVM, Room, Repository and Firebase
 
  <div>
