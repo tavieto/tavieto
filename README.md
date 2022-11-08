@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently learning Jetpack Compose, MVVM, Room, Repository and Firebase
+- 🔭 I'm currently working on <a href="https://play.google.com/store/apps/details?id=br.com.havaianas">Havaianas</a> app at <a href="https://ioasys.com.br/">ioasys</a>
 
  <div>
   <a href="https://github.com/tavieto">
