@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working on <a href="https://play.google.com/store/apps/details?id=br.com.havaianas">Havaianas</a> app at <a href="https://ioasys.com.br/">ioasys</a>
-
  <div>
   <a href="https://github.com/tavieto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavieto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
