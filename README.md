@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
  <div>
   <a href="https://github.com/tavieto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavieto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+-->
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
