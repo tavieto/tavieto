@@ -6,7 +6,6 @@
 
 ```kotlin
 data class Developer(
-
  val name: String = "Otávio Gabriel",
  val title: String = "Android Developer",
  val yearsOfExperience: Int = 4,
