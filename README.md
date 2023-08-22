@@ -11,11 +11,11 @@ data class Developer(
  val title: String = "Android Developer",
  val yearsOfExperience: Int = 4,
 
- val primarySkills: MutableList<String> = mutableListOf("Kotlin", "Java", "Jetpack Compose", "XML", "Unit/UI Testing"),
- val architectures: MutableList<String> = mutableListOf("MVI", "MVVM", "Clean Architecture"),
- val secondarySkills: MutableList<String> = mutableListOf("SOLID", "Dependecy Injection", "Modular Design", "CI/CD"),
- val tools: MutableList<String> = mutableListOf("Kotlin Coroutines", "RXJava", "Firebase", "Detekt"),
- val buildTools: MutableList<String> = mutableListOf("Kotlin DSL", "Version Catalogs", "Gradle Plugins")
+ val primarySkills: List<String> = listOf("Kotlin", "Java", "Jetpack Compose", "XML", "Unit/UI Testing"),
+ val architectures: List<String> = listOf("MVI", "MVVM", "Clean Architecture"),
+ val secondarySkills: List<String> = listOf("SOLID", "Dependecy Injection", "Modular Design", "CI/CD"),
+ val tools: List<String> = listOf("Kotlin Coroutines", "RXJava", "Firebase", "Detekt"),
+ val buildTools: List<String> = listOf("Kotlin DSL", "Version Catalogs", "Gradle Plugins")
 )
 ```
 
