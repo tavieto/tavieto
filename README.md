@@ -1,7 +1,5 @@
 ![wallpaper](/wallpaper.png)
 
-### What's up devs? 🤙
-
 ## About me 📱💻
 
 ```kotlin
