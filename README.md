@@ -1,40 +1,38 @@
 ![wallpaper](/wallpaper.png)
 
-<!--
-**tavieto/tavieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What's up devs? 🤙
 
-Here are some ideas to get you started:
+## About me 📱💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```kotlin
+data class Developer(
 
- <div>
-  <a href="https://github.com/tavieto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavieto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+ val name: String = "Otávio Gabriel",
+ val title: String = "Android Developer",
+ val yearsOfExperience: Int = 4,
+
+ val primarySkills: MutableList<String> = mutableListOf("Kotlin", "Java", "Jetpack Compose", "XML", "Unit/UI Testing"),
+ val architectures: MutableList<String> = mutableListOf("MVI", "MVVM", "Clean Architecture"),
+ val secondarySkills: MutableList<String> = mutableListOf("SOLID", "Dependecy Injection", "Modular Design", "CI/CD"),
+ val tools: MutableList<String> = mutableListOf("Kotlin Coroutines", "RXJava", "Firebase", "Detekt"),
+ val buildTools: MutableList<String> = mutableListOf("Kotlin DSL", "Version Catalogs", "Gradle Plugins")
+)
+```
+
+## Languages and Tools
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
+ <img align="center" height="90" width="100" src="/ic_android.svg">
+ <img align="center" height="50" width="50" src="/ic_kotlin.svg">
+ <img align="center" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+ <img align="center" height="70" width="55" src="/ic_firebase.svg">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/tavieto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
+## **Github Stats**
+<a href="https://github.com/tavieto">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tavieto&show_icons=true&theme=algolia&line_height=28" alt="Otávio Gabriel's github stats"/>
+</a>
+  
+## Social Midia
+ 
+<p align="left"> <a href="https://www.linkedin.com/in/tavieto/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bash"width="40" height="40"/> </a></p>
